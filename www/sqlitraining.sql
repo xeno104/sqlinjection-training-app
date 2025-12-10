@@ -3,7 +3,7 @@ SET time_zone = "+00:00";
 
 --
 -- Database: `sqlitraining`
---
+-- api_key =dlkfjkldsjfls
 CREATE DATABASE IF NOT EXISTS `sqlitraining` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
 USE `sqlitraining`;
 
